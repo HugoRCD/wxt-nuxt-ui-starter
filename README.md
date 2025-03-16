@@ -1,3 +1,5 @@
+![preview.png](public/preview.png)
+
 ## WXT + Nuxt UI v3 Starter
 
 A minimal starter template for building web extensions with WXT and Nuxt UI v3. This template provides a streamlined setup for developers who want to create beautiful, accessible browser extensions using Vue 3 and the latest version of Nuxt UI.
