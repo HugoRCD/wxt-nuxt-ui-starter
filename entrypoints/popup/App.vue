@@ -1,22 +1,22 @@
 <script lang="ts" setup>
-// import HelloWorld from "@/components/HelloWorld.vue";
+import { ref } from 'vue'
+import Logo from '@/components/Logo.vue'
+import ColorModeButton from '@/components/ColorModeButton.vue'
+
+const count = ref(0)
 </script>
 
 <template>
-  <div>Test</div>
+  <UApp>
+    <UCard class="size-60 relative">
+      <ColorModeButton class="absolute right-2 top-2" size="xs" />
+      <div class="flex flex-col gap-4">
+        <Logo class="w-fit h-6 shrink-0" />
+        <UButton label="Increment" class="w-fit" @click="count++" />
+        <span class="text-2xl font-bold">
+          Count: {{ count }}
+        </span>
+      </div>
+    </UCard>
+  </UApp>
 </template>
-
-<style scoped>
-.logo {
-    height: 6em;
-    padding: 1.5em;
-    will-change: filter;
-    transition: filter 300ms;
-}
-.logo:hover {
-    filter: drop-shadow(0 0 2em #54bc4ae0);
-}
-.logo.vue:hover {
-    filter: drop-shadow(0 0 2em #42b883aa);
-}
-</style>
