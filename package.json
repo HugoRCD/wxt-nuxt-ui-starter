@@ -20,14 +20,14 @@
   "dependencies": {
     "@nuxt/ui": "^3.1.1",
     "@shelve/cli": "^4.1.6",
-    "@vitejs/plugin-vue": "^5.2.3",
+    "@vitejs/plugin-vue": "^5.2.4",
     "@vueuse/core": "^13.1.0",
     "vue": "^3.5.13",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@hrcd/eslint-config": "^3.0.3",
-    "@types/chrome": "^0.0.320",
+    "@types/chrome": "^0.0.321",
     "@wxt-dev/module-vue": "^1.0.2",
     "eslint": "^9.26.0",
     "typescript": "5.8.3",
