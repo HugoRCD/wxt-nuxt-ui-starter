@@ -21,7 +21,7 @@
     "@nuxt/ui": "^3.1.1",
     "@shelve/cli": "^4.1.6",
     "@vitejs/plugin-vue": "^5.2.4",
-    "@vueuse/core": "^13.1.0",
+    "@vueuse/core": "^13.2.0",
     "vue": "^3.5.13",
     "vue-router": "^4.5.1"
   },
