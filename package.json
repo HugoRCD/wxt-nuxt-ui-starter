@@ -18,18 +18,18 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@nuxt/ui": "^3.1.1",
+    "@nuxt/ui": "^3.1.2",
     "@shelve/cli": "^4.1.6",
     "@vitejs/plugin-vue": "^5.2.4",
     "@vueuse/core": "^13.2.0",
-    "vue": "^3.5.13",
+    "vue": "^3.5.14",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@hrcd/eslint-config": "^3.0.3",
-    "@types/chrome": "^0.0.322",
+    "@types/chrome": "^0.0.323",
     "@wxt-dev/module-vue": "^1.0.2",
-    "eslint": "^9.26.0",
+    "eslint": "^9.27.0",
     "typescript": "5.8.3",
     "vue-tsc": "^2.2.10",
     "wxt": "^0.20.6"
