@@ -27,9 +27,9 @@
   },
   "devDependencies": {
     "@hrcd/eslint-config": "^3.0.3",
-    "@types/chrome": "^0.0.323",
+    "@types/chrome": "^0.0.325",
     "@wxt-dev/module-vue": "^1.0.2",
-    "eslint": "^9.27.0",
+    "eslint": "^9.28.0",
     "typescript": "5.8.3",
     "vue-tsc": "^2.2.10",
     "wxt": "^0.20.6"
