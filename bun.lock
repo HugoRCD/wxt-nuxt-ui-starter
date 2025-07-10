@@ -13,7 +13,7 @@
       },
       "devDependencies": {
         "@hrcd/eslint-config": "^3.0.3",
-        "@types/chrome": "^0.0.329",
+        "@types/chrome": "^0.0.332",
         "@wxt-dev/module-vue": "^1.0.2",
         "eslint": "^9.30.1",
         "typescript": "5.8.3",
@@ -317,7 +317,7 @@
 
     "@tybys/wasm-util": ["@tybys/wasm-util@0.9.0", "", { "dependencies": { "tslib": "^2.4.0" } }, "sha512-6+7nlbMVX/PVDCwaIQ8nTOPveOcFLSt8GcXdx8hD0bt39uWxYT88uXzqTd4fTvqta7oeUJqudepapKNt2DYJFw=="],
 
-    "@types/chrome": ["@types/chrome@0.0.329", "", { "dependencies": { "@types/filesystem": "*", "@types/har-format": "*" } }, "sha512-jAZX4QMnAa1bTSWoQ5/EhhiY1t+1B7a5ZCY5ZEs61tWiQfxXAkfBSxCkQWhGxJoiq/4b4vtcmYEebNEmlLKecg=="],
+    "@types/chrome": ["@types/chrome@0.0.332", "", { "dependencies": { "@types/filesystem": "*", "@types/har-format": "*" } }, "sha512-Fl4luF9q/iroXMKbL1LQyr/nCKhKwkwkZQ9qeeePFECW/8SP/Lrx2kJ26wnpTpr0iAznkENoO8g924CP4mfNxw=="],
 
     "@types/estree": ["@types/estree@1.0.6", "", {}, "sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw=="],
 
