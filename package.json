@@ -18,7 +18,7 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@nuxt/ui": "^3.2.0",
+    "@nuxt/ui": "^3.3.0",
     "@shelve/cli": "^4.1.6",
     "@vitejs/plugin-vue": "^5.2.4",
     "@vueuse/core": "^13.5.0",
@@ -29,7 +29,7 @@
     "@hrcd/eslint-config": "^3.0.3",
     "@types/chrome": "^0.1.1",
     "@wxt-dev/module-vue": "^1.0.2",
-    "eslint": "^9.31.0",
+    "eslint": "^9.32.0",
     "typescript": "5.8.3",
     "vue-tsc": "^2.2.12",
     "wxt": "^0.20.7"
