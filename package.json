@@ -23,7 +23,7 @@
     "@vitejs/plugin-vue": "^5.2.4",
     "@vueuse/core": "^13.9.0",
     "vue": "^3.5.22",
-    "vue-router": "^4.5.1"
+    "vue-router": "^4.6.0"
   },
   "devDependencies": {
     "@hrcd/eslint-config": "^3.0.3",
