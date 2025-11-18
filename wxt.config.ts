@@ -1,19 +1,20 @@
 import { defineConfig } from 'wxt'
 import ui from '@nuxt/ui/vite'
 
-// See https://wxt.dev/api/config.html
 export default defineConfig({
-  extensionApi: 'chrome',
   modules: ['@wxt-dev/module-vue'],
   vite: () => ({
     plugins: [
-      ui({
-        ui: {
-          colors: {
-            neutral: 'neutral'
+      {
+          name: 'nuxt-ui-csp-fix',
+          enforce: 'pre',
+          transform(code:string, id:string) {
+            if (id.includes('@nuxt/ui') && code.includes('data-nuxt-ui-colors')) {
+              return { code: 'export default () => {}', map: null }
+            }
           }
-        },
-      })
+      },
+      ui()
     ],
   }),
 })
