@@ -23,13 +23,13 @@
     "@vitejs/plugin-vue": "^5.2.4",
     "@vueuse/core": "^13.9.0",
     "vue": "^3.5.25",
-    "vue-router": "^4.6.3"
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@hrcd/eslint-config": "^3.0.3",
     "@types/chrome": "^0.1.32",
     "@wxt-dev/module-vue": "^1.0.3",
-    "eslint": "^9.39.1",
+    "eslint": "^9.39.2",
     "typescript": "5.9.3",
     "vue-tsc": "^2.2.12",
     "wxt": "^0.20.11"
