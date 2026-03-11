@@ -22,7 +22,7 @@
     "@shelve/cli": "^4.1.7",
     "@vitejs/plugin-vue": "^5.2.4",
     "@vueuse/core": "^13.9.0",
-    "vue": "^3.5.29",
+    "vue": "^3.5.30",
     "vue-router": "^4.6.4"
   },
   "devDependencies": {
