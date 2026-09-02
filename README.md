@@ -22,3 +22,15 @@ A minimal starter template for building web extensions with WXT and Nuxt UI v3. 
 ### Documentation
 - [WXT Documentation](https://wxt.dev)
 - [Nuxt UI Documentation](https://ui.nuxt.com)
+
+<!-- automd:fetch url="gh:hugorcd/markdown/main/src/sponsors.md" -->
+
+## Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/HugoRCD">
+    <img src='https://cdn.jsdelivr.net/gh/hugorcd/static/sponsors.svg' alt="HugoRCD sponsors" />
+  </a>
+</p>
+
+<!-- /automd -->
